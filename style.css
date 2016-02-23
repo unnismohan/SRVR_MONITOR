@@ -1,0 +1,113 @@
+html, body {
+    display: block;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    background-color: #fff;
+}
+
+ul {
+    list-style: none;
+}
+
+.header {
+    width: 100%;
+    position: fixed;
+    top: 0px;
+    height: 80px;
+    text-align: center;
+    background-color: #efe;
+    border: 1px solid #dedede;
+    z-index: 999;
+}
+
+.MainHead {
+    font-family: 'Open Sans', sans-serif;
+    font-size: x-large;
+    font-weight: bold;
+}
+
+.wrapper {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.body_content {
+    width: 100%;
+}
+
+/* tiles */
+
+.tileborder {
+}
+
+.headclr {
+}
+
+.tile_box_content {
+    padding: 2% 3% 3% 3%;
+    width: 95%;
+}
+
+.tile_box_content h3 {
+    color: #717171;
+    font-size: larger;
+    margin-bottom: 0.2em;
+    display: block;
+    transition: 0.5s all;
+    -webkit-transition: 0.5s all;
+    -moz-transition: 0.5s all;
+    -o-transition: 0.5s all;
+}
+
+.tile_box_content h3:hover {
+    color: #B9CB41;
+}
+
+.tile_box_content span a {
+    color: #ACAAAA;
+    font-size: 0.9em;
+}
+
+.tile_box_content p {
+    font-size: 0.875em;
+    color: #B7B5B5;
+    margin: 0.6em 0;
+    line-height: 1.5em;
+}
+/* ---- table ---- */
+
+.tableclass {
+    font-family: 'Open Sans', sans-serif;
+    width: 100%;
+    
+}
+.tableclass tr td {
+    border: 1px solid #dedede;
+    text-align: center;
+    overflow-wrap: break-word;
+    word-break: break-all;
+}
+.theadclass {
+    
+    background-color: #11c5f7;
+}
+
+.theadtrclass {
+    font-size: medium;
+    color: #fff;
+}
+.srvccls{
+        width: 30%;
+    }
+    
+.warncls{
+        
+        width: 15%;
+    }
+.desccls{
+        
+        width: 55%;
+    }
+
