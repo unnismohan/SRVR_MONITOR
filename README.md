@@ -1,4 +1,4 @@
-# literate-invention
+# SRVR_MONITOR
 
 SRVR_MONITOR_1.sh is an apache cgi script which can be used for server monitoring and alert notification.
 
